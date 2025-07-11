@@ -1,4 +1,4 @@
-## GreenSentinel-AI
+## GreenSentinel AI: Monitoring Illegal Land Use with Satellite Imagery and Text Analysi
 
 GreenSentinel AI: Monitoring Illegal Land Use with Satellite Imagery and Text Analysis
 *Final project for the Building AI course*
